@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Meridian High School, 2021
+* B.A. in Geography, University of Maryland, Baltimore County, 2025 (expected
+* Undergraduate Certificate in GIScience, University of Maryland, Baltimore County, 2025 (expected)
 
 Work experience
 ======
@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* ArcGIS 
+* QGIS
+  * Sub-skill 1.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* R
 
 Publications
 ======
