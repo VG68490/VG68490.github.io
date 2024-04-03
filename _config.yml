@@ -22,9 +22,9 @@ repository               : "VG68490/VG68490.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jean Sedik"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "I am a student at UMBC pursuing a Bachelor of Arts in Geography along with a GIS certificate."
+  bio              : "I am a student at UMBC pursuing a Bachelor of Arts in Geography along with a GIS certificate. </br> Specializing in spatial analysis, cartography, and technology-driven problem-solving. </br> Interested in collaborative projects and exploring diverse applications of geographic data."
   location         : "Maryland"
   employer         : "University of Maryland, Baltimore County"
   uri              : # URL
