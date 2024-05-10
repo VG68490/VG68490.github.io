@@ -9,7 +9,6 @@ redirect_from:
 
 ![Map of Roads and Parking Lots in Glacier National Park](/C:/Users/katia/OneDrive/Desktop/UMBC_Classes/Spring_2024/GES_486/RShit/lab05/data/nat_park/Glacier2.jpg){: .align-right width="380px"}
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +60,7 @@ redirect_from:
         a:hover {
             text-decoration: underline;
         }
-    
+   
 </head>
 <body>
     <header>
