@@ -11,57 +11,57 @@ redirect_from:
 
 <!DOCTYPE html>
 <html lang="en">
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #24292e;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-}
-
-.container {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 0 20px;
-}
-
-section {
-    margin-bottom: 40px;
-}
-
-h1, h2 {
-    color: #24292e;
-}
-
-footer {
-    background-color: #24292e;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-a {
-    color: #0366d6;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #24292e;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h1, h2 {
+            color: #24292e;
+        }
+
+        footer {
+            background-color: #24292e;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -70,7 +70,7 @@ a:hover {
     <div class="container">
         <section id="introduction">
             <h2>Introduction</h2>
-            <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about urban geography. Here you'll find information about my education, skills, and projects.</p>
+            <p>Welcome to my GitHub page! I'm [Your Name], a [Your Profession/Interest] passionate about [Your Interests/Hobbies]. Here you'll find information about my education, skills, and projects.</p>
         </section>
         <section id="education">
             <h2>Education</h2>
@@ -79,9 +79,9 @@ a:hover {
         <section id="skills">
             <h2>Skills</h2>
             <ul>
-                <li>Programming Languages: R </li>
-                <li>Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
-                <li>Other Skills: Languages: Fluency in Russian and high proficiency in French</li>
+                <li>Programming Languages: [List of Programming Languages]</li>
+                <li>Technologies: [List of Technologies/Frameworks]</li>
+                <li>Other Skills: [Other Relevant Skills]</li>
             </ul>
         </section>
         <section id="projects">
@@ -96,7 +96,7 @@ a:hover {
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Jean Sedik</p>
+        <p>&copy; 2024 [Your Name]</p>
     </footer>
 </body>
 </html>
