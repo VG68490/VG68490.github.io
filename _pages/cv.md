@@ -20,7 +20,8 @@ Work experience
 * Employer: Panera Bread
 * Location: Rockville, Maryland
 * Position: Cashier, Associate 
-* Time: June 2022 – Aug 2022 </br>
+* Time: June 2022 – Aug 2022
+* Duties Included: </br>
         * Describe menu items to customers or suggest products that might appeal to them.</br>
         * Receive payment by cash, check, credit cards, vouchers, or automatic debits.</br>
         * Greet customers entering establishments.</br>
@@ -32,6 +33,7 @@ Work experience
 * Location: West Lafayette, Indiana
 * Position: Cashier 
 * Time: Sept 2021- Dec 2021
+* Duties Included: </br>
         * Receive payment by cash, check, credit cards, vouchers, or automatic debits.</br>
         * Assist customers by providing information and resolving their complaints.</br>
         * Establish or identify prices of goods, services or admission, and tabulate bills using calculators, cash registers, or optical             price scanners.</br>
@@ -45,6 +47,7 @@ Work experience
 * Location: West Lafayette, Indiana
 * Position: Barista 
 * Time: Sept 2021- Dec 2021
+* Duties Included: </br>
         * Prepare hot and cold beverages, such as coffee, espresso drinks, blended coffees, and smoothies.</br>
         * Clean and sanitize work areas.</br>
         * Clean service or seating areas.</br>
@@ -62,6 +65,7 @@ Work experience
 * Location: Arlington, Virginia
 * Position: Babysitter 
 * Time: Jul 2021- Aug 2021
+* Duties Included: </br>
         * Maintain a safe play environment.</br>
         * Observe and monitor children's play activities.</br>
         * Greet customers entering establishments.</br>
