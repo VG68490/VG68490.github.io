@@ -2,11 +2,11 @@
 title: "Comparison of House Prices in the U.S per County"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This graph shows the distribution of housing prices in the U.S aggregated by county.'
+excerpt: 'This graph shows the distribution of housing prices in the U.S aggregated by county. Learn more about housing prices by reading the CNN article linked on this page.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'https://www.cnn.com/2024/03/21/economy/existing-home-sales-february/index.html'
 citation: 'Jean Sedik. (2024). GES 486.'
 ---
 
-Learn more about housing prices by reading the CNN article linked on this page. The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
