@@ -10,12 +10,6 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
-
-
-![Household Income in Various U.S Counties](/images/counties_data.png)
-
 </head>
 <body>
     <header>
@@ -38,6 +32,11 @@ redirect_from:
         </section>
         <section id="projects">
             <h2>Projects :page_facing_up:</h2>
+          <img> 
+
+![Household Income in Various U.S Counties](/images/counties_data.png)
+
+![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg) </img> 
             <p>Here are some of the projects I have worked on:</p>
             <ul>
                 <li><a href="#">Project 1</a> - Description of Project 1</li>
