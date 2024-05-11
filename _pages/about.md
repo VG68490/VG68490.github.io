@@ -50,6 +50,6 @@ redirect_from:
         <footer>
         <p>&copy; 2024 Jean Sedik </p>
  
-    </footer>
+   </footer>
     </body>
     </html>
