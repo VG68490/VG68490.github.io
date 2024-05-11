@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %}
 
 ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
-<p> A map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. <p> 
 
 ![Median House Prices in Various U.S Counties](/images/counties_data.png)
-<p> A chart displaying the median and distribution of house prices in the U.S by county. </p>
+<p> Figure A: Map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. <p> 
+
+
+<p> Figure B: A chart displaying the median and distribution of house prices in the U.S by county. </p>
