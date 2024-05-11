@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
