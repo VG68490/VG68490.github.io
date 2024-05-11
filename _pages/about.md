@@ -18,8 +18,7 @@ redirect_from:
     <div class="container">
         <section id="introduction">
             <h2>Introduction 👋</h2>
-            <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about using GIS in the context of urban and environmental planning. Click on the nagivation tab above to learn more about my education, skills, and projects.</p>
-          <p>Unfortunately, I could not get the images to display. To view my map and chart, please navigate to 'Publications', thank you in advance. Apologies for the inconvenience. </p>
+            <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about using GIS in the context of urban and environmental planning. Click on the nagivation tab above to learn more about my education, skills, and projects. Unfortunately, I could not get the images to display. To view my map and chart, please navigate to 'Publications', thank you in advance. Apologies for the inconvenience. </p>
         </section>
         <section id="skills">
             <h2> Skills ⭐</h2>
