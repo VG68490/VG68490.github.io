@@ -38,7 +38,7 @@ redirect_from:
                 <li><a href="#">Project 2</a> - The distribution of house prices per county </li>
         </section>
         <section id="projects2">
-!
+
           
 <h3> A chart displaying the median and distribution of house prices in the U.S by county. </h3>
         
