@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jean Sedik's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,11 +17,11 @@ redirect_from:
     </header>
     <div class="container">
         <section id="introduction">
-            <h2>Introduction :wave:</h2>
+            <h2>Introduction:wave: 👋</h2>
             <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about using GIS in the context of urban and environmental planning. Click on the nagivation tab above to learn more about my education, skills, and projects</p>
         </section>
         <section id="skills">
-            <h2> Skills :star:</h2>
+            <h2> Skills:star: ⭐</h2>
             <ul>
                 <li> Programming Languages: R </li>
                 <li> Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
@@ -31,7 +31,7 @@ redirect_from:
             </ul>
         </section>
         <section id="projects">
-            <h2>Projects :page_facing_up:</h2>
+            <h2>Projects📄:page_facing_up:</h2>
           
 ![Household Income in Various U.S Counties](/images/counties_data.png)
 
