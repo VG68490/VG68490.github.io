@@ -46,9 +46,8 @@ redirect_from:
       
    </section>
    
-            </div>
-    
-              <footer>
+   </div>
+        <footer>
         <p>&copy; 2024 Jean Sedik </p>
  
     </footer>
