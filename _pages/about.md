@@ -24,11 +24,11 @@ redirect_from:
             <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about using GIS in the context of urban and environmental planning. Here you'll find information about my education, skills, and projects.</p>
         </section>
         <section id="skills">
-            <h2>Skills</h2>
+            <h2>          Skills</h2>
             <ul>
-                <li>Programming Languages: R </li>
-                <li>Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
-                <li>Other Skills: Languages: Fluent in Russian and French </li>
+                <li>      Programming Languages: R </li>
+                <li>      Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
+                <li>      Other Skills: </br>Languages:</br>Fluent in Russian and French </li>
             </ul>
         </section>
         <section id="projects">
