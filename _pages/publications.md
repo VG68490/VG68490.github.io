@@ -15,9 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+<h2> Figure A:</h2>
+
 ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
 
+<h2> Figure B: </h2>
+
 ![Median House Prices in Various U.S Counties](/images/counties_data.png)
+
 <p> Figure A: Map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. <p> 
 
 
