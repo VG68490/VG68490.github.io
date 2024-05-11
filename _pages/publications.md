@@ -16,3 +16,5 @@ author_profile: true
 {% endfor %}
 
 ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
+
+![Median House Prices in Various U.S Counties](/images/counties_data.png)
