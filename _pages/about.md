@@ -21,18 +21,14 @@ redirect_from:
     <div class="container">
         <section id="introduction">
             <h2>Introduction</h2>
-            <p>Welcome to my GitHub page! I'm [Your Name], a [Your Profession/Interest] passionate about [Your Interests/Hobbies]. Here you'll find information about my education, skills, and projects.</p>
-        </section>
-        <section id="education">
-            <h2>Education</h2>
-            <p>I graduated from [Your University/College] with a degree in [Your Degree]. I have also completed courses in [Relevant Courses/Certifications].</p>
+            <p>Welcome to my GitHub page! I'm Jean Sedik, a rising senior at UMBC, passionate about using GIS in the context of urban and environmental planning. Here you'll find information about my education, skills, and projects.</p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
             <ul>
-                <li>Programming Languages: [List of Programming Languages]</li>
-                <li>Technologies: [List of Technologies/Frameworks]</li>
-                <li>Other Skills: [Other Relevant Skills]</li>
+                <li>Programming Languages: R </li>
+                <li>Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
+                <li>Other Skills: Languages: Fluent in Russian and French </li>
             </ul>
         </section>
         <section id="projects">
@@ -47,7 +43,7 @@ redirect_from:
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 [Your Name]</p>
+        <p>&copy; 2024 Jean Sedik </p>
     </footer>
 </body>
 </html>
