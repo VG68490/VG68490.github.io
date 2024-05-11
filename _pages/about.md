@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![Map of Roads and Parking Lots in Glacier National Park](master/images/Glacier2.jpg){: .align-right width="380px"}
+![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
+{:.align-right width="380px"}
 
 <html lang="en">
 <head>
