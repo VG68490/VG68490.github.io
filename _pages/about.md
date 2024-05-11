@@ -38,9 +38,9 @@ redirect_from:
                 <li><a href="#">Project 2</a> - The distribution of house prices per county </li>
         </section>
         <section id="projects2">
-        <img> ![Household Income in Various U.S Counties](/images/counties_data.png) </img>
+        <img = ![Household Income in Various U.S Counties](/images/counties_data.png)>
         <p> A map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. </p>
-        <img> ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg) </img>
+        <img = ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)>
         <p> A chart displaying the median and distribution of house prices in the U.S by county. </p>
         </section>
     </div>
