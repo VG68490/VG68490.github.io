@@ -28,7 +28,9 @@ redirect_from:
             <ul>
                 <li> Programming Languages: R </li>
                 <li> Technologies: Microsoft Office, Excel, QGIS, ArcGIS </li>
-                <li> Other Skills: </br>Languages:</br>Fluent in Russian and French </li>
+                <li> Other Skills:
+                  Languages:
+                  Fluent in Russian and French </li>
             </ul>
         </section>
         <section id="projects">
