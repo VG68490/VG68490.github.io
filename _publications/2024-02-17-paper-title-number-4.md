@@ -2,10 +2,10 @@
 title: "Map of Roads and Parking Lots in Glacier National Park"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This project displays a map of Glacier National Park.'
+excerpt: 'This project displays a map of Glacier National Park. Learn more at the url'
 date: 2024-05-10
 venue: 'GitHub Portfolio'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://en.wikipedia.org/wiki/Glacier_National_Park_(U.S.)'
 citation: 'Jean Sedik. (2024). GES 486.'
 ---
 
