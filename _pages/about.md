@@ -6,17 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
-{:.align-right width="380px"}
-
-![Household Income in Various U.S Counties](/images/counties_data.png)
-{:.align-right width="380px"}
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
+
+
+![Household Income in Various U.S Counties](/images/counties_data.png)
+
 </head>
 <body>
     <header>
