@@ -10,7 +10,7 @@ redirect_from:
 ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
 {:.align-right width="380px"}
 
-![Household Income in Various U.S Counties](/images/uh.jpg)
+![Household Income in Various U.S Counties](/images/counties_data.png)
 {:.align-right width="380px"}
 
 <html lang="en">
