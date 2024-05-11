@@ -32,16 +32,15 @@ redirect_from:
         </section>
         <section id="projects">
             <h2>Projects :page_facing_up:</h2>
-          <img> 
-
+          
 ![Household Income in Various U.S Counties](/images/counties_data.png)
 
-![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg) </img> 
+![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg) 
             <p>Here are some of the projects I have worked on:</p>
             <ul>
-                <li><a href="#">Project 1</a> - Description of Project 1</li>
-                <li><a href="#">Project 2</a> - Description of Project 2</li>
-                <li><a href="#">Project 3</a> - Description of Project 3</li>
+                <li><a href="#">Project 1</a> - A map of parking lots and roads in Washington's Glacier National Park 1</li>
+                <li><a href="#">Project 2</a> - Household income distribution per County 2</li>
+            
                 <!-- Add more projects as needed -->
             </ul>
         </section>
