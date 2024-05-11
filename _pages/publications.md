@@ -19,3 +19,4 @@ author_profile: true
 <p> A map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. <p> 
 
 ![Median House Prices in Various U.S Counties](/images/counties_data.png)
+<p> A chart displaying the median and distribution of house prices in the U.S by county. </p>
