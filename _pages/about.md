@@ -40,8 +40,7 @@ redirect_from:
         <section id="projects2">
        
    ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
-        <h3> A map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. </h3>
-         ![Median House Prices in Various U.S Counties](/../../images/counties_data.png) 
+        <h3> A map displaying points, lines, and polygons of parking lots, roads, and the Glacier Naitonal Park. </h3> 
          ![Median House Prices in Various U.S Counties](/images/counties_data.png) 
         <h3> A chart displaying the median and distribution of house prices in the U.S by county. </h3>
       
