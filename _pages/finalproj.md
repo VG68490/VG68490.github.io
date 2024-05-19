@@ -20,7 +20,8 @@ author_profile: true
 <h3>Analysis and Results </h3>
 <p> The Moran's I value (Figure A) obtained from the analysis is 0.265, the interpretation of this result suggests a moderate degree of spatial autocorrelation between average life expectancy and the percentage of Native Americans in Baltimore City. However, the Moran’s I value exceeds the conventional significance level of 0.05, leading to the acceptance of the null hypothesis. Thus, there is no significant spatial correlation between these variables at the specified significance level. </p>
 
-Below are six figures to illustrate the spatial distribution of the data.
+
+<h2> Below are six figures to illustrate the spatial distribution of the data. </h2>
 
 
 <b> Figure A: </b>
@@ -50,7 +51,7 @@ When applied to symbology in maps, natural breaks classification helps to visual
 
 ![LISA Significance Map](/images/lisa_sig_map.png) 
 
-A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant. Census tracts with a p-value of 0.01 . 
+A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant. Census tracts with a p-value of 0.05 _____.  0.01 _____.  and 0.001 _____. 
 
 
 <b> Figure E: </b>
@@ -69,7 +70,7 @@ A side-by-side comparison of average life expectancy, percent Native American po
 <p>[write conclusion about results] </p>
 
 <h2>Reflection </h2>
-<h3>On the Final Project </h3>
-<p>[add something] </p>
+<h3> On the Final Project </h3>
+<p> add something </p>
 <h3>On the class overall </h3>
-<p> [add something]</p>
+<p> add something </p>
