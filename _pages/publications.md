@@ -21,6 +21,7 @@ author_profile: true
 <p> There is a significant gap in life expectancy between White and non-White people. With Native Americans having the lowest life expectancy. This is connected to my GES 383 class, as for my final project I mapped out places of significance for Indigenous people in Baltimore city. By combining two different datasets, life expectancy per tract and population of Native Americans per tract, we can see whether or not there is a correlation between low life expectancy and indigeneity in Baltimore city. In creating these maps and performing a Moran’s I analysis of the data, we can see whether or not the percentage of Native American people per census tract and average life expectancy are spatially correlated. The significance of this research lies in understanding potential disparities in health outcomes among different demographic groups within an urban environment. The results of this research regardless of whether the null hypothesis is proved or disproved can still prove useful and create avenues for more research into the indigenous communities in Baltimore city in regards to public health research and policy-making. 
 [Insert Citations] </p>
 </br>
+
 <h3> Data and Methods </h3>
 <p>The data for this study were obtained from the United States Census American Community Survey and the Centers for Disease Control and Prevention Life Expectancy Estimates. The dataset includes average life expectancy per census tract and the percentage of Native Americans per census tract in Baltimore City. Spatial analysis was conducted using Moran's I, a widely used statistical measure for assessing spatial autocorrelation (Anselin, 1995). Moran's I calculates the degree of similarity between neighboring observations, making it suitable for detecting spatial patterns in health-related data.
 [look at qmd file]
@@ -31,16 +32,21 @@ author_profile: true
 Below are six figures to illustrate the spatial distribution of the data.
 
 
-<b> </b> Figure A:
-</br>
-![Moran's I Graph](/images/moransi_graph.png) </br>
+<b> Figure A: </b>
+
+![Moran's I Graph](/images/moransi_graph.png)
+
 A Moran's I Graph showing a value of 0.265. There is some correlation between average life expectancy and percentage of Native American people per tract in Baltimore City, but the correlation is not statistically significant enough.
 
-Figure B: </br>
-![Native American Population per tract quantified using Natural Breaks](/images/nat_am_nat_break.png) </br>
+<b> Figure B: </b>
 
-Figure C: </br>
-![Life Expectancy per tracts quantified using Natural Breaks](/images/lifeexp_nat_break.png) </br> 
+![Native American Population per tract quantified using Natural Breaks](/images/nat_am_nat_break.png)
+
+
+<b> Figure C: </b>
+
+![Life Expectancy per tracts quantified using Natural Breaks](/images/lifeexp_nat_break.png)
+
 <p> Jenks Natural Break Classification method was used to better understand the patterns and spread of the data. "Natural breaks" is a method used in cartography (map-making) to classify and symbolize data based on natural groupings or patterns within the data itself. This method is also known as Jenks natural breaks classification or Jenks optimization.
 
 In natural breaks classification, the data is divided into classes or groups in a way that minimizes the variance within each class while maximizing the variance between classes. The goal is to create classes that represent distinct groupings in the data, making it easier for map readers to interpret and understand the spatial distribution of the phenomenon being mapped.
@@ -49,16 +55,21 @@ This method is particularly useful when dealing with data that exhibits natural 
 
 When applied to symbology in maps, natural breaks classification helps to visually represent the data in a way that highlights the spatial patterns and variations, making it easier for map users to identify trends, outliers, and areas of interest. This can be done by using different colors, shades, or symbols to represent each class or group within the data. </p>
 
-Figure D: </br>
-![LISA Significance Map](/images/lisa_sig_map.png) </br>
+<b> Figure D: </b>
+
+![LISA Significance Map](/images/lisa_sig_map.png) 
+
 A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant.
 
-Figure E: </br>
-![LISA Cluster Map](/images/lisa_cluster_map.png) </br>
+<b> Figure E: </b>
+![LISA Cluster Map](/images/lisa_cluster_map.png) 
+
 Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract.
 
-Figure F: </br>
-![Side-by-Side Map](/images/final_map_png.png) </br>
+<b> Figure F: </b>
+
+![Side-by-Side Map](/images/final_map_png.png) 
+
 A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed.
 
 <h3> Conclusion </h3>
