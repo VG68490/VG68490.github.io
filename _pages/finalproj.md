@@ -77,7 +77,9 @@ A side-by-side comparison of average life expectancy, percent Native American po
 
 <h3> Works Cited </h3>
 <p>
-CDC. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html. 
+Anselin, Luc. “Local indicators of Spatial Association—lisa.” Geographical Analysis, vol. 27, no. 2, Apr. 1995, pp. 93–115, https://doi.org/10.1111/j.1538-4632.1995.tb00338.x. 
+
+ CDC. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html. 
  
 Fleck, Anna. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html.  
 
