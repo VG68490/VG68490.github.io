@@ -19,7 +19,7 @@ author_profile: true
 <h2> Figure A:</h2>
 
 ![Map of Roads and Parking Lots in Glacier National Park](/images/Glacier2.jpg)
-
+![Map of Roads and Parking Lots in Glacier National Park](/images/moransi_graph.png)
 <h2> Figure B: </h2>
 
 ![Median House Prices in Various U.S Counties](/images/counties_data.png)
