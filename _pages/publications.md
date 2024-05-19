@@ -30,27 +30,28 @@ author_profile: true
 
 
 Figure A:
-![Moran's I Graph](/images/moransi_graph.png)
+</br>
+![Moran's I Graph](/images/moransi_graph.png) </br>
 A Moran's I Graph showing a value of 0.265. There is some correlation between average life expectancy and percentage of Native American people per tract in Baltimore City, but the correlation is not statistically significant enough.
 
 
-Figure B:
-![Native American Population per tract quantified using Natural Breaks](./images/nat_am_nat_break.png)
+Figure B: </br>
+![Native American Population per tract quantified using Natural Breaks](/images/nat_am_nat_break.png) </br>
 
-Figure C:
-![Life Expectancy per tracts quantified using Natural Breaks](./images/lifeexp_nat_break.png)
+Figure C: </br>
+![Life Expectancy per tracts quantified using Natural Breaks](/images/lifeexp_nat_break.png) </br>
 Natural Breaks 
 
-Figure D:
-![LISA Significance Map](./images/lisa_sig_map.png)
+Figure D: </br>
+![LISA Significance Map](/images/lisa_sig_map.png) </br>
 A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant.
 
-Figure E:
-![LISA Cluster Map](./images/lisa_cluster_map.png)
+Figure E: </br>
+![LISA Cluster Map](/images/lisa_cluster_map.png) </br>
 Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract.
 
-Figure F:
-![Side-by-Side Map](/images/final_map_png.png)
+Figure F: </br>
+![Side-by-Side Map](/images/final_map_png.png) </br>
 A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed.
 
 <h3> Conclusion </h3>
