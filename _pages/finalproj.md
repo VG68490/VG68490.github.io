@@ -93,9 +93,9 @@ A side-by-side comparison of average life expectancy, percent Native American po
 
 <h2>Reflection </h2>
 <h3> On the Final Project </h3>
-<p> add something </p>
+<p> This project provided valuable insights into spatial analysis techniques and their application in public health research. One notable challenge was the limited availability of detailed demographic data, which constrained the scope of our analysis. In future projects, accessing more comprehensive datasets and incorporating advanced spatial analysis techniques could enhance the robustness of the findings.  </p>
 <h3>On the class overall </h3>
-<p> add something </p>
+<p> In the class, I liked that we did hands-on exercises which had practical applications, because they facilitated a deeper understanding of spatial analysis methods and their implementation in real-world scenarios. I would have appreciated it if we had gone into more depth about the theoretical concepts behind the spatial analyses and other computer science concepts that we used in class.  </p>
 
 <h3> Works Cited </h3>
 
