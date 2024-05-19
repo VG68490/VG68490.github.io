@@ -29,3 +29,36 @@ author_profile: true
 
 
 <p> Figure B: A chart displaying the median and distribution of house prices in the U.S by county. </p>
+
+<h1>Exploring Spatial Correlation between Average Life Expectancy and Native American Population in Baltimore City</h1>
+<h3> Introduction </h3>
+<p> There is a significant gap in life expectancy between White and non-White people. With Native Americans having the lowest life expectancy. This is connected to my GES 383 class, as for my final project I mapped out places of significance for Indigenous people in Baltimore city. By combining two different datasets, life expectancy per tract and population of Native Americans per tract, we can see whether or not there is a correlation between low life expectancy and indigeneity in Baltimore city. In creating these maps and performing a Moran’s I analysis of the data, we can see whether or not the percentage of Native American people per census tract and average life expectancy are spatially correlated. The significance of this research lies in understanding potential disparities in health outcomes among different demographic groups within an urban environment. The results of this research regardless of whether the null hypothesis is proved or disproved can still prove useful and create avenues for more research into the indigenous communities in Baltimore city in regards to public health research and policy-making. 
+[Insert Citations] </p>
+</br>
+<h3> Data and Methods </h3>
+<p>The data for this study were obtained from the United States Census American Community Survey and the Centers for Disease Control and Prevention Life Expectancy Estimates. The dataset includes average life expectancy per census tract and the percentage of Native Americans per census tract in Baltimore City. Spatial analysis was conducted using Moran's I, a widely used statistical measure for assessing spatial autocorrelation (Anselin, 1995). Moran's I calculates the degree of similarity between neighboring observations, making it suitable for detecting spatial patterns in health-related data.
+[look at qmd file]
+ </p>
+<h3>Analysis and Results </h3>
+<p> Write about this in google doc then copy paste here </p>
+![Moran's I Graph](/images/moransi_graph.png)
+![Moran's I Graph](https://VG68490.github.io/master/images/moransi_graph.png)
+
+![Native American Population per tract quantified using Natural Breaks](./images/nat_am_nat_break.png)
+
+![Life Expectancy per tratc quantified using Natural Breaks](./images/lifeexp_nat_break.png)
+
+![LISA Significance Map](./images/lisa_sig_map.png)
+
+![LISA Cluster Map](./images/lisa_cluster_map.png)
+
+![plswork](/images/final_map_png.png)
+  
+<h3> Conclusion </h3>
+<p>[write conclusion about results] </p>
+
+<h2>Reflection </h2>
+<h3>On the Final Project </h3>
+<p>[add something] </p>
+<h3>On the class overall </h3>
+<p> [add something]</p>
