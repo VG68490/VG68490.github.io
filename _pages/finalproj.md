@@ -45,7 +45,7 @@ then i opened up the joined shapefile that i had created in GeoDa, made a weight
 <h2> Below are six figures to illustrate the spatial distribution of the data. </h2>
 
 
-<b> Figure A: </b>
+<b> Figure A: Moran's I Graph showing how Native American population and Average Life Expectancy per census tract in Baltimore City are spatially correlated </b>
 
 ![Moran's I Graph](/images/moransi_graph.png)
 
@@ -68,28 +68,28 @@ This method is particularly useful when dealing with data that exhibits natural 
 
 When applied to symbology in maps, natural breaks classification helps to visually represent the data in a way that highlights the spatial patterns and variations, making it easier for map users to identify trends, outliers, and areas of interest. This can be done by using different colors, shades, or symbols to represent each class or group within the data. </p>
 
-<b> Figure D: </b>
+<b> Figure D: Map showing areas of Significant Spatial Correlation using the Moran's I test </b>
 
 ![LISA Significance Map](/images/lisa_sig_map.png) 
 
 A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant. Census tracts with a p-values of 0.05, 0.01, and 0.001 indicate that there is a moderate, high, and significant  correlation-- respectively-- between average life expectancy and Native American population per census tract.
 
 
-<b> Figure E: </b>
+<b> Figure E: Cluster Map showing areas of strong and weak spatial correlation between Native American population and Average Life Expectancy per census tract in Baltimore City</b>
 
 ![LISA Cluster Map](/images/lisa_cluster_map.png) 
 
 Cluster map showing where in Baltimore City there is strong and weak correlation. The dark red and dark blue patches show areas where there is high positive and high negative correlation between percentage of Native Americans and average life expectancy per tract. The light red and light blue patches on the map indicate where there is little correlation between the two variables. Grey areas show that there is no correlation at all between the two variables in those areas.
 
 
-<b> Figure F: </b>
+<b> Figure F: Map Comparing the Distribution of the Native American population and Average Life Expectancy per census tract in Baltimore City</b>
 
 ![Side-by-Side Map](/images/final_map_png.png) 
 
 A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed. There appears to be an upside-down 'L' shape ('ꓶ') to the geographic data starting from Fallstaff going through Downtown and ending at Brooklyn, with Cross Country and North Roland Park neighborhoods having the most spatial correlation between average life expectancy and percentage of Native American population. Comparing this cluster map with the two natural breaks maps (Figure B and Figure C), we can see that the areas with a smaller population of Native American people tend to have a higher life expectancy. 
 
 <h3> Conclusion </h3>
-<p>[write conclusion about results] </p>
+<p> Although the analysis did not find significant spatial correlation between average life expectancy and the percentage of Native Americans in Baltimore City, it is essential to interpret these results cautiously. The absence of significant correlation in all census tracts does not imply that the data is statistically insignificant in general. As we can see in the LISA Significance Map, Figure D, strong spatial correlation between the two variables exists in some census tracts and is absent from others. Nor does it imply the absence of health disparities or socio-economic factors influencing health outcomes within the population. Further research incorporating additional variables and considering potential confounders is warranted to provide a comprehensive understanding of health inequalities in urban settings. </p>
 
 <h2>Reflection </h2>
 <h3> On the Final Project </h3>
