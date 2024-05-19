@@ -83,6 +83,8 @@ Anselin, Luc. “Local indicators of Spatial Association— LISA.” Geographica
  
 Fleck, Anna. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html.  
 
+Schmitz, Andy. “6.3 Data Classification.” Essentials of Geographic Information Systems v. 1.0, Saylor Academy, 2012, saylordotorg.github.io/text_essentials-of-geographic-information-systems/s10-03-data-classification.html.  
+
 </p>
 
 
