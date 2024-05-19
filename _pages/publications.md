@@ -28,6 +28,7 @@ author_profile: true
 <h3>Analysis and Results </h3>
 <p> Write about this in google doc then copy paste here </p>
 
+
 ![Moran's I Graph](/images/moransi_graph.png)
 ![Moran's I Graph](https://VG68490.github.io/master/images/moransi_graph.png)
 
@@ -36,10 +37,13 @@ author_profile: true
 ![Life Expectancy per tratc quantified using Natural Breaks](./images/lifeexp_nat_break.png)
 
 ![LISA Significance Map](./images/lisa_sig_map.png)
+A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant.
 
 ![LISA Cluster Map](./images/lisa_cluster_map.png)
+Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract.
 
 ![plswork](/images/final_map_png.png)
+A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed.
 
  ![Moran's I Graph](/images/moransi_graph.png)  
 <h3> Conclusion </h3>
