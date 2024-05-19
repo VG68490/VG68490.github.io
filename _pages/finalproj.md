@@ -9,8 +9,8 @@ author_profile: true
 
 <h3> Introduction </h3>
 
-<p> There is a significant gap in life expectancy between White and non-White people. With Native Americans having the lowest life expectancy. This is connected to my GES 383 class, as for my final project I mapped out places of significance for Indigenous people in Baltimore city. By combining two different datasets, life expectancy per tract and population of Native Americans per tract, we can see whether or not there is a correlation between low life expectancy and indigeneity in Baltimore city. In creating these maps and performing a Moran’s I analysis of the data, we can see whether or not the percentage of Native American people per census tract and average life expectancy are spatially correlated. The significance of this research lies in understanding potential disparities in health outcomes among different demographic groups within an urban environment. The results of this research regardless of whether the null hypothesis is proved or disproved can still prove useful and create avenues for more research into the indigenous communities in Baltimore city in regards to public health research and policy-making. 
-[Insert Citations] </p>
+<p> There is a significant gap in life expectancy between White and non-White people. With Native Americans having the lowest life expectancy (Fleck, 2020). This is connected to my GES 383 class, as for my final project I mapped out places of significance for Indigenous people in Baltimore city. By combining two different datasets, life expectancy per tract and population of Native Americans per tract, we can see whether or not there is a correlation between low life expectancy and indigeneity in Baltimore city. In creating these maps and performing a Moran’s I analysis of the data, we can see whether or not the percentage of Native American people per census tract and average life expectancy are spatially correlated. The significance of this research lies in understanding potential disparities in health outcomes among different demographic groups within an urban environment. The results of this research regardless of whether the null hypothesis is proved or disproved can still prove useful and create avenues for more research into the indigenous communities in Baltimore city in regards to public health research and policy-making . 
+ </p>
 
 
 <h3> Data and Methods </h3>
@@ -41,7 +41,7 @@ A Moran's I Graph showing a value of 0.265. There is some correlation between av
 
 <p> Jenks Natural Break Classification method was used to better understand the patterns and spread of the data. "Natural breaks" is a method used in cartography to classify and symbolize data based on natural groupings or patterns within the data itself.
 
-In natural breaks classification, the data is divided into classes or groups in a way that minimizes the variance within each class while maximizing the variance between classes. The goal is to create classes that represent distinct groupings in the data, making it easier for map readers to interpret and understand the spatial distribution of the phenomenon being mapped.
+In natural breaks classification, the data is divided into classes or groups in a way that minimizes the variance within each class while maximizing the variance between classes. The goal is to create classes that represent distinct groupings in the data, making it easier for map readers to interpret and understand the spatial distribution of the phenomenon being mapped (Schmitz, 2012).
 
 This method is particularly useful when dealing with data that exhibits natural clustering or breaks, such as population density, income levels, or elevation. Instead of arbitrarily dividing the data into equal intervals or quantiles, natural breaks classification allows for more meaningful groupings that reflect the underlying patterns in the data.
 
@@ -83,7 +83,7 @@ A side-by-side comparison of average life expectancy, percent Native American po
 Anselin, Luc. “Local indicators of Spatial Association— LISA.” Geographical Analysis, vol. 27, no. 2, Apr. 1995, pp. 93–115, https://doi.org/10.1111/j.1538-4632.1995.tb00338.x.
 
 </p>
-</br>
+
 
 
 <p> 
@@ -91,7 +91,7 @@ Anselin, Luc. “Local indicators of Spatial Association— LISA.” Geographica
 Fleck, Anna. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html.
 
 </p>
-</br>
+
 
 <p>
  
