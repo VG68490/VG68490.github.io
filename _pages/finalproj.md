@@ -51,20 +51,20 @@ When applied to symbology in maps, natural breaks classification helps to visual
 
 ![LISA Significance Map](/images/lisa_sig_map.png) 
 
-A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant. Census tracts with a p-value of 0.05 _____.  0.01 _____.  and 0.001 _____. 
+A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant. Census tracts with a p-values of 0.05, 0.01, and 0.001 indicate that there is a moderate, high, and significant  correlation-- respectively-- between average life expectancy and Native American population per census tract.
 
 
 <b> Figure E: </b>
 ![LISA Cluster Map](/images/lisa_cluster_map.png) 
 
-Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract. There appears to be an upside-down 'L' shape ('ꓶ') to the geographic data starting from (insert neighborhood) and ending at (insert neighborhood), with (neighborhoods __ and __) having the most spatial correlation between average life expectancy and percentage of Native American population. Comparing this cluster map with the two natural breaks maps (Figure B and Figure C), we can see that (say what you see). 
+Cluster map showing where in Baltimore City there is strong and weak correlation. The dark red and dark blue patches show areas where there is high positive and high negative correlation between percentage of Native Americans and average life expectancy per tract. The light red and light blue patches on the map indicate where there is little correlation between the two variables. Grey areas show that there is no correlation at all between the two variables in those areas.
 
 
 <b> Figure F: </b>
 
 ![Side-by-Side Map](/images/final_map_png.png) 
 
-A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed.
+A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed. There appears to be an upside-down 'L' shape ('ꓶ') to the geographic data starting from Fallstaff going through Downtown and ending at Brooklyn, with Cross Country and North Roland Park neighborhoods having the most spatial correlation between average life expectancy and percentage of Native American population. Comparing this cluster map with the two natural breaks maps (Figure B and Figure C), we can see that the areas with a smaller population of Native American people tend to have a higher life expectancy. 
 
 <h3> Conclusion </h3>
 <p>[write conclusion about results] </p>
