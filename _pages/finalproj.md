@@ -16,26 +16,6 @@ author_profile: true
 <h3> Data and Methods </h3>
 <p>The data for this study were obtained from the United States Census American Community Survey and the Centers for Disease Control and Prevention Life Expectancy Estimates. The dataset includes average life expectancy per census tract and the percentage of Native Americans per census tract in Baltimore City. Spatial analysis was conducted using Moran's I, a widely used statistical measure for assessing spatial autocorrelation (Anselin, 1995). Moran's I calculates the degree of similarity between neighboring observations, making it suitable for detecting spatial patterns in health-related data.
 [look at qmd file]
-
-what does qmd file show?
-using data from the 2010 5-year ACS survey-- used the survey var B03002.
-to find total pop. of ppl per tract 'B03002_001' and tot.pop. of NatAm. per tract
-'B03002_005'.
-
-divided the tot.pop. nat.am by tot.pop per tract and this gave the % of nat.am per tract.
-
-Read in life expectancy data from CDC csv file. filtered the data using the 'filter' command to only include data from the county FIPS code '510', balt city's FIPS code. 
-
-Performed a spatial join, a full join, to append the life expectancy data to my baltimore population census tract data, using the column 'GEOID' as the primary key. 
-To make GIS programs able to display both of the variables (nat.am pop. AND life exp.) I converted the column that showed life exp. from a string to a double.
-
-then i opened up the joined shapefile that i had created in GeoDa, made a weighted __ using 'percentage of Native Americans per tract' as the weight and 'life exp' as the x variable. performed a moran's i test and generated a cluster map and a significance map using GeoDa.
-
-
-
-
-
-
  
  </p>
 <h3>Analysis and Results </h3>
