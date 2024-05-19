@@ -57,7 +57,7 @@ A map showing areas where the Moran's I value is less than or exceeds the p-valu
 <b> Figure E: </b>
 ![LISA Cluster Map](/images/lisa_cluster_map.png) 
 
-Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract. There appears to be an upside-down 'L' shape to the geographic data starting from (insert neighborhood) and ending at (insert neighborhood), with (neighborhoods __ and __) having the most spatial correlation between average life expectancy and percentage of Native American population. Comparing this cluster map with the two natural breaks maps (Figure B and Figure C), we can see that (say what you see). 
+Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract. There appears to be an upside-down 'L' shape ('ꓶ') to the geographic data starting from (insert neighborhood) and ending at (insert neighborhood), with (neighborhoods __ and __) having the most spatial correlation between average life expectancy and percentage of Native American population. Comparing this cluster map with the two natural breaks maps (Figure B and Figure C), we can see that (say what you see). 
 
 
 <b> Figure F: </b>
