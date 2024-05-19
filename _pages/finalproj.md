@@ -74,3 +74,13 @@ A side-by-side comparison of average life expectancy, percent Native American po
 <p> add something </p>
 <h3>On the class overall </h3>
 <p> add something </p>
+
+<h3> Works Cited </h3>
+<p>
+CDC. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html. 
+ 
+Fleck, Anna. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html.  
+
+</p>
+
+
