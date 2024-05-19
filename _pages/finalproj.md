@@ -1,19 +1,10 @@
 ---
 layout: archive
 title: "Final Project"
-permalink: /publications/
+permalink: /final-project/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 <h1>Exploring Spatial Correlation between Average Life Expectancy and Native American Population in Baltimore City</h1>
 
 <h3> Introduction </h3>
