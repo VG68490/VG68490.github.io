@@ -29,23 +29,30 @@ author_profile: true
 <p> The Moran's I value obtained from the analysis is 0.265, the interpretation of this result suggests a moderate degree of spatial autocorrelation between average life expectancy and the percentage of Native Americans in Baltimore City. However, the Moran’s I value exceeds the conventional significance level of 0.05, leading to the acceptance of the null hypothesis. Thus, there is no significant spatial correlation between these variables at the specified significance level. </p>
 
 
+Figure A:
 ![Moran's I Graph](/images/moransi_graph.png)
-![Moran's I Graph](https://VG68490.github.io/master/images/moransi_graph.png)
+A Moran's I Graph showing a value of 0.265. There is some correlation between average life expectancy and percentage of Native American people per tract in Baltimore City, but the correlation is not statistically significant enough.
 
+
+Figure B:
 ![Native American Population per tract quantified using Natural Breaks](./images/nat_am_nat_break.png)
 
-![Life Expectancy per tratc quantified using Natural Breaks](./images/lifeexp_nat_break.png)
+Figure C:
+![Life Expectancy per tracts quantified using Natural Breaks](./images/lifeexp_nat_break.png)
+Natural Breaks 
 
+Figure D:
 ![LISA Significance Map](./images/lisa_sig_map.png)
 A map showing areas where the Moran's I value is less than or exceeds the p-value of 0.05, making certain areas less or more statistically significant.
 
+Figure E:
 ![LISA Cluster Map](./images/lisa_cluster_map.png)
 Cluster map showing where there is strong and weak correlation between percentage of Native Americans and average life expectancy per tract.
 
-![plswork](/images/final_map_png.png)
+Figure F:
+![Side-by-Side Map](/images/final_map_png.png)
 A side-by-side comparison of average life expectancy, percent Native American population per tract by tract, and a bivariete map showing how these two variables are spatially distributed.
 
- ![Moran's I Graph](/images/moransi_graph.png)  
 <h3> Conclusion </h3>
 <p>[write conclusion about results] </p>
 
