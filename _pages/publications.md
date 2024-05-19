@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Final Project"
 permalink: /publications/
 author_profile: true
 ---
@@ -26,7 +26,7 @@ author_profile: true
 [look at qmd file]
  </p>
 <h3>Analysis and Results </h3>
-<p> Write about this in google doc then copy paste here </p>
+<p> The Moran's I value obtained from the analysis is 0.265, the interpretation of this result suggests a moderate degree of spatial autocorrelation between average life expectancy and the percentage of Native Americans in Baltimore City. However, the Moran’s I value exceeds the conventional significance level of 0.05, leading to the acceptance of the null hypothesis. Thus, there is no significant spatial correlation between these variables at the specified significance level. </p>
 
 
 ![Moran's I Graph](/images/moransi_graph.png)
