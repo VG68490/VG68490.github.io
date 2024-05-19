@@ -55,6 +55,7 @@ A map showing areas where the Moran's I value is less than or exceeds the p-valu
 
 
 <b> Figure E: </b>
+
 ![LISA Cluster Map](/images/lisa_cluster_map.png) 
 
 Cluster map showing where in Baltimore City there is strong and weak correlation. The dark red and dark blue patches show areas where there is high positive and high negative correlation between percentage of Native Americans and average life expectancy per tract. The light red and light blue patches on the map indicate where there is little correlation between the two variables. Grey areas show that there is no correlation at all between the two variables in those areas.
@@ -79,9 +80,12 @@ A side-by-side comparison of average life expectancy, percent Native American po
 <p>
 Anselin, Luc. “Local indicators of Spatial Association— LISA.” Geographical Analysis, vol. 27, no. 2, Apr. 1995, pp. 93–115, https://doi.org/10.1111/j.1538-4632.1995.tb00338.x. 
 
+
  CDC. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html. 
  
+ 
 Fleck, Anna. “NVSS - United States Small-Area Life Expectancy Estimates Project.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 9 June 2020, www.cdc.gov/nchs/nvss/usaleep/usaleep.html.  
+
 
 Schmitz, Andy. “6.3 Data Classification.” Essentials of Geographic Information Systems v. 1.0, Saylor Academy, 2012, saylordotorg.github.io/text_essentials-of-geographic-information-systems/s10-03-data-classification.html.  
 
