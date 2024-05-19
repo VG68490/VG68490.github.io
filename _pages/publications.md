@@ -26,21 +26,28 @@ author_profile: true
 [look at qmd file]
  </p>
 <h3>Analysis and Results </h3>
-<p> The Moran's I value obtained from the analysis is 0.265, the interpretation of this result suggests a moderate degree of spatial autocorrelation between average life expectancy and the percentage of Native Americans in Baltimore City. However, the Moran’s I value exceeds the conventional significance level of 0.05, leading to the acceptance of the null hypothesis. Thus, there is no significant spatial correlation between these variables at the specified significance level. </p>
+<p> The Moran's I value (Figure A) obtained from the analysis is 0.265, the interpretation of this result suggests a moderate degree of spatial autocorrelation between average life expectancy and the percentage of Native Americans in Baltimore City. However, the Moran’s I value exceeds the conventional significance level of 0.05, leading to the acceptance of the null hypothesis. Thus, there is no significant spatial correlation between these variables at the specified significance level. </p>
+
+Below are six figures to illustrate the spatial distribution of the data.
 
 
-Figure A:
+<b> </b> Figure A:
 </br>
 ![Moran's I Graph](/images/moransi_graph.png) </br>
 A Moran's I Graph showing a value of 0.265. There is some correlation between average life expectancy and percentage of Native American people per tract in Baltimore City, but the correlation is not statistically significant enough.
-
 
 Figure B: </br>
 ![Native American Population per tract quantified using Natural Breaks](/images/nat_am_nat_break.png) </br>
 
 Figure C: </br>
-![Life Expectancy per tracts quantified using Natural Breaks](/images/lifeexp_nat_break.png) </br>
-Natural Breaks 
+![Life Expectancy per tracts quantified using Natural Breaks](/images/lifeexp_nat_break.png) </br> 
+<p> Jenks Natural Break Classification method was used to better understand the patterns and spread of the data. "Natural breaks" is a method used in cartography (map-making) to classify and symbolize data based on natural groupings or patterns within the data itself. This method is also known as Jenks natural breaks classification or Jenks optimization.
+
+In natural breaks classification, the data is divided into classes or groups in a way that minimizes the variance within each class while maximizing the variance between classes. The goal is to create classes that represent distinct groupings in the data, making it easier for map readers to interpret and understand the spatial distribution of the phenomenon being mapped.
+
+This method is particularly useful when dealing with data that exhibits natural clustering or breaks, such as population density, income levels, or elevation. Instead of arbitrarily dividing the data into equal intervals or quantiles, natural breaks classification allows for more meaningful groupings that reflect the underlying patterns in the data.
+
+When applied to symbology in maps, natural breaks classification helps to visually represent the data in a way that highlights the spatial patterns and variations, making it easier for map users to identify trends, outliers, and areas of interest. This can be done by using different colors, shades, or symbols to represent each class or group within the data. </p>
 
 Figure D: </br>
 ![LISA Significance Map](/images/lisa_sig_map.png) </br>
